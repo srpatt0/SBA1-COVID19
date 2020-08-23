@@ -1,0 +1,1 @@
+<h1 align = "center" style="color:gray;font-size:30px;">CoronaKit Header</h1>
